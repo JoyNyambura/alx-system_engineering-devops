@@ -1,1 +1,1 @@
-Init and Variables
+Variables
